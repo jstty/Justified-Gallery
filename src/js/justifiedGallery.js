@@ -1138,4 +1138,4 @@
     selector: '> a, > div:not(.spinner)' // The selector that is used to know what are the entries of the gallery
   };
 
-}(jQuery));
+}(jQuery || jquery));
